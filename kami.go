@@ -1,3 +1,10 @@
+/*
+This is an incomplete multi-tool/dos-tool kind of like sinful,
+but the method hasnt been tested fully and i kinda half assed it,
+so idk if it even works tbh but im not gonna start working on it again.
+If you want to use this as a guide for your own tool or build off it feel
+free i dont plan on using this for anything so yall can use it like a template or sum.
+*/
 package main
 import (
 	"fmt"
